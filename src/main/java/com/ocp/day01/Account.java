@@ -1,4 +1,4 @@
-package com.ocp.day1;
+package com.ocp.day01;
 
 
 public class Account {
